@@ -2,7 +2,7 @@
 
 [![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-native-imaged-card)
 
-[![React Native Library Boiler Plate](https://img.shields.io/badge/-React%20Native%20Library%20Boilerplate-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-imaged-card)
+[![Beautiful and Fully Customizable Imaged Card for React Native](https://img.shields.io/badge/-Beautiful%20and%20Fully%20Customizable%20Imaged%20Card%20for%20React%20Native-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-imaged-card)
 
 [![npm version](https://img.shields.io/npm/v/react-native-imaged-card.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-imaged-card)
 [![npm](https://img.shields.io/npm/dt/react-native-imaged-card.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-imaged-card)
