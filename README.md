@@ -54,7 +54,7 @@ import ImagedCard from "react-native-imaged-card";
 ## Basic Usage
 
 ```js
-<ImagedCard stars={5} title="Nuts />
+<ImagedCard stars={5} imageSource={require("./assets/chestnut.png")} />
 ```
 
 # Configuration - Props

@@ -8,7 +8,10 @@ const App = () => {
       <StatusBar barStyle="dark-content" />
       <SafeAreaView style={styles.container}>
         <View style={styles.containerGlue}>
-          <ImagedCard stars={5} />
+          <ImagedCard
+            stars={5}
+            imageSource={require("./assets/chestnut.png")}
+          />
         </View>
       </SafeAreaView>
     </>
