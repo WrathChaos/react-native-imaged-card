@@ -70,6 +70,10 @@ import ImagedCard from "react-native-imaged-card";
 - [x] ~~LICENSE~~
 - [ ] Write an article about the lib on Medium
 
+## Credits
+
+Thank you for this awesome inspiration. Designed by [Enhuy](https://dribbble.com/shots/9195334-nuts-app)
+
 ## Author
 
 FreakyCoder, kurayogun@gmail.com
