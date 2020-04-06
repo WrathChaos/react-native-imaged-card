@@ -15,6 +15,15 @@
         src="assets/Screenshots/rn-imaged-card.png" />
 </p>
 
+<p align="center">
+  <b>Dribbble Inpsiration</b>  
+</p>
+
+<p align="center">
+  <img alt="React Native Imaged Card"
+        src="assets/Screenshots/nuts_app.png" />
+</p>
+
 # Installation
 
 Add the dependency:
