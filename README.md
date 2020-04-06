@@ -71,6 +71,7 @@ import ImagedCard from "react-native-imaged-card";
 | dividerStyle       | style  |                     default                     | change the divider's view style     |
 | titleTextStyle     | style  |                     default                     | change the title's text style       |
 | descTextStyle      | style  |                     default                     | change the description's text style |
+| imageSource        | asset  |                    undefined                    | set your own image for the top one  |
 | regionTextStyle    | style  |                     default                     | change the region's text style      |
 | subregionTextStyle | style  |                     default                     | change the subregion's text style   |
 
